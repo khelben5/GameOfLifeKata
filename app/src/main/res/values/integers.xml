@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="initial_population_size">2500</integer>
+    <integer name="evolution_period_ms">500</integer>
+</resources>
